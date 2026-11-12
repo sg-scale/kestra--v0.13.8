@@ -50,7 +50,7 @@
     "vue-material-design-icons": "^5.2.0",
     "vue-router": "^4.2.5",
     "vue-sidebar-menu": "^5.2.11",
-    "vue-virtual-scroller": "^2.0.0-beta.8",
+    "vue-virtual-scroller": "^3.0.5",
     "vue3-popper": "^1.5.0",
     "vue3-tour": "git@github.com:kestra-io/vue3-tour.git",
     "vuex": "^4.1.0",
